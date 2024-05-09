@@ -5,7 +5,7 @@ The application allows users to perform basic banking operations such as creatin
 
 
 Technologies Used
-Java 11
-Spring Boot 2.5.4
-MySQL 8.0.26
+Java 22,
+Spring Boot 3.5.2,
+MySQL 8.0.26,
 Postman for API testing
